@@ -1,0 +1,15 @@
+/* src/App.css */
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: rgb(141, 134, 141); /* Set background color */
+  min-height: 100vh; /* Ensure it covers the full viewport height */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center content horizontally */
+  justify-content: center; /* Center content vertically */
+}
+
+h1 {
+  color: #007bff;
+}
